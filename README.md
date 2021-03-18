@@ -32,5 +32,7 @@ We could containerize this application. Some Ideas:
 ## Resources
 
 [1] AudioSet Download: https://research.google.com/audioset/download.html
+
 [2] MAX Audio Embedding Generator: https://github.com/IBM/MAX-Audio-Embedding-Generator
+
 [3] Annoy slidedeck: https://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup
