@@ -36,3 +36,5 @@ We could containerize this application. Some Ideas:
 [2] MAX Audio Embedding Generator: https://github.com/IBM/MAX-Audio-Embedding-Generator
 
 [3] Annoy slidedeck: https://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup
+
+[4] Annoy explained in more detail: https://www.youtube.com/watch?v=QkCCyLW0ehU
